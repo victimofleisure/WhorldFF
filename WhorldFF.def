@@ -1,0 +1,3 @@
+LIBRARY			WhorldFF
+DESCRIPTION		'Whorld FreeFrame Plugin'
+EXPORTS			plugMain
